@@ -1,0 +1,7 @@
+Pic_Blanc Grotte_De_Glace descente_du_tunnel_1 noir 10
+Pic_Blanc Lac_Blanc descente_de_la_breche noir 10
+Pic_Blanc Sommet_3060 descente_du_tunnel_2 noir 3
+Pic_Blanc Sommet_3060 descente_du_glacier noir 4
+Pic_Blanc Glacier_De_Sarenne descente_de_sarenne noir 3
+Grotte_De_Glace Pic_Blanc telepherique_Pic_Blanc vert 8
+Sommet_3060 Pic_Blanc telesiege_glacier vert 6
