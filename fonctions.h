@@ -7,6 +7,8 @@
 
 int getExperience();
 
-int calculPoids(char* couleur, int temps, int experience);
+int calculPoids(int couleur, int temps, int experience);
 
 NOMS ajoutFinNoms(NOMS N, char* s);
+
+POIDS ajoutFinPoids(POIDS P, int n);
